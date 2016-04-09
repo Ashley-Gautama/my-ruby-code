@@ -1,0 +1,6 @@
+<h2>Toys</h2>
+
+<% @toys.each_with_index do |toy, i| %>
+    <h3><a href="/toys/<%= i %>"><%= toy[:product] %></a></h3>
+
+<% end %>

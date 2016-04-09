@@ -1,0 +1,6 @@
+<h2>Search</h2>
+
+
+<% contacts.each do |contact|
+   if contact[:name] =~ /\b#{pattern}/i
+      show( contact )%>

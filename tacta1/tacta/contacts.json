@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Nikola Tesla",
+    "phone": null,
+    "email": null
+  },
+  {
+    "name": "Charles Darwin",
+    "phone": "+44 20 7123 4567",
+    "email": "darles@evolve.org"
+  },
+  {
+    "name": "Nikola Tesla",
+    "phone": "+385 43 987 3355",
+    "email": "nik@inductlabs.com"
+  },
+  {
+    "name": "Genghis Khan",
+    "phone": "+976 2 194 2222",
+    "email": "contact@empire.com"
+  },
+  {
+    "name": "Malcom X",
+    "phone": "+1 310 155 8822",
+    "email": "x@theroost.org"
+  },
+  {
+    "name": "Donald Duck",
+    "phone": "+17766983838",
+    "email": "donald.duck@disney.land"
+  },
+  {
+    "name": "Mickey Mouse",
+    "phone": "+1333746565",
+    "email": "mickey.mouse@disney.land"
+  },
+  {
+    "name": "",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "lol",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "a",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "sds",
+    "phone": "",
+    "email": ""
+  }
+]

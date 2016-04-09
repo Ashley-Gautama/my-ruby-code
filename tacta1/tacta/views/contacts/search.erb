@@ -1,0 +1,8 @@
+<h2>search for a contact</h2>
+
+<form action="/contacts/<%= @i %>/update" method="POST">
+  <p>Name: <input type="text" name="name" value="<%= @contact[:name] %>"></p>
+
+  <input type="submit" value="search">
+  <button><a href="/contacts/display<%= @i %>">Cancel</a></button>
+</form>

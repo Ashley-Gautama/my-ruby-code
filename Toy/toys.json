@@ -1,0 +1,12 @@
+[
+  {
+    "product": "Colt",
+    "price": 700,
+    "stock": 20
+  },
+  {
+    "product": "ak-47",
+    "price": "2300",
+    "stock": "10"
+  }
+]
